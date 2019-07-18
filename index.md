@@ -151,3 +151,16 @@ can be consumed by CI systems in combination with Kubernetes api.
 
 [k8s](https://k8s.readthedocs.org/en/latest/) is a python client library for the
 Kubernetes api developed by the maintainers of FIAAS.
+
+## Presentations
+
+Here are a few presentations featuring FIAAS
+
+### [Lessons Learned From Maintaining Continuous Delivery While Migrating From a Static Infrastructure to Kubernetes](https://www.youtube.com/watch?v=UJneVIAv9rc)
+*KubeCon + CloudNativeCon Berlin 2017* | Audun Fauchald Strand,  Øyvind Ingebrigtsen Øvergaard
+
+### [Evolving a Continuous Delivery Workflow to Kubernetes using Spinnaker](https://www.youtube.com/watch?v=cen3dULhE1E)
+*KubeCon + CloudNativeCon Copenhagen 2018* | Gard Voigt Rimestad, Øyvind Ingebrigtsen Øvergaard
+
+### [Kubernetes and Spinnaker in Schibsted](https://www.youtube.com/watch?v=znYmjsJCSzk)
+* Spinnaker Summit 2018* | Gard Voigt Rimestad
