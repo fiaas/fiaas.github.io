@@ -163,4 +163,4 @@ Here are a few presentations featuring FIAAS
 *KubeCon + CloudNativeCon Copenhagen 2018* | Gard Voigt Rimestad, Øyvind Ingebrigtsen Øvergaard
 
 ### [Kubernetes and Spinnaker in Schibsted](https://www.youtube.com/watch?v=znYmjsJCSzk)
-* Spinnaker Summit 2018* | Gard Voigt Rimestad
+*Spinnaker Summit 2018* | Gard Voigt Rimestad
