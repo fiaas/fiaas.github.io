@@ -156,17 +156,17 @@ Kubernetes api developed by the maintainers of FIAAS.
 
 Here are a few presentations featuring FIAAS
 
-**[Lessons Learned From Maintaining Continuous Delivery While Migrating From a Static Infrastructure to Kubernetes](https://www.youtube.com/watch?v=UJneVIAv9rc)**
+##### [Lessons Learned From Maintaining Continuous Delivery While Migrating From a Static Infrastructure to Kubernetes](https://www.youtube.com/watch?v=UJneVIAv9rc)
 
 Audun Fauchald Strand, Øyvind Ingebrigtsen Øvergaard<br/>
 *KubeCon + CloudNativeCon Berlin 2017*
 
-**[Evolving a Continuous Delivery Workflow to Kubernetes using Spinnaker](https://www.youtube.com/watch?v=cen3dULhE1E)**
+##### [Evolving a Continuous Delivery Workflow to Kubernetes using Spinnaker](https://www.youtube.com/watch?v=cen3dULhE1E)
 
 Gard Voigt Rimestad, Øyvind Ingebrigtsen Øvergaard<br/>
 *KubeCon + CloudNativeCon Copenhagen 2018*
 
-**[Kubernetes and Spinnaker in Schibsted](https://www.youtube.com/watch?v=znYmjsJCSzk)**
+##### [Kubernetes and Spinnaker in Schibsted](https://www.youtube.com/watch?v=znYmjsJCSzk)
 
 Gard Voigt Rimestad<br/>
 *Spinnaker Summit 2018*
