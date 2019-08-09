@@ -2,4 +2,4 @@ language: python
 install:
 - gem install mdl
 script:
-- mdl .
+- mdl --style mdl.rb .
