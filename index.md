@@ -166,7 +166,7 @@ If you have found a bug or or want to propose a new feature, please submit a Git
 repository. If you are unsure which repo is appropriate,
 [fiaas-deploy-daemon](https://github.com/fiaas/fiaas-deploy-daemon) might be the best choice.
 
-If you want to contribute code, we are also happy to take pull requests, but for  non-trivial patches we recommend
+If you want to contribute code, we are also happy to take pull requests, but for non-trivial patches we recommend
 creating a Github issue first to make it easier to discuss the proposed changes.
 
 Each repository will also have a README and/or CONTRIBUTING file that will also contain useful information for
