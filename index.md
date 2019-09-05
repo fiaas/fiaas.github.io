@@ -152,6 +152,26 @@ can be consumed by CI systems in combination with Kubernetes api.
 [k8s](https://k8s.readthedocs.org/en/latest/) is a python client library for the
 Kubernetes api developed by the maintainers of FIAAS.
 
+## Contributing
+
+We are happy to accept pull requests that fix bugs or introduce new features!
+
+Before contributing it might be useful to take a look at the [governance
+model](https://github.com/fiaas/governance/blob/master/governance_model.md) to get an understanding of how this
+project is managed. You should also review the [Code of
+Conduct](https://github.com/fiaas/governance/blob/master/code_of_conduct.md) which all participants in FIAAS projects
+are expected to adhere to.
+
+If you have found a bug or or want to propose a new feature, please submit a Github issue on the appropriate
+repository. If you are unsure which repo is appropriate,
+[fiaas-deploy-daemon](https://github.com/fiaas/fiaas-deploy-daemon) might be the best choice.
+
+If you want to contribute code, we are also happy to take pull requests, but for  non-trivial patches we recommend
+creating a Github issue first to make it easier to discuss the proposed changes.
+
+Each repository will also have a README and/or CONTRIBUTING file that will also contain useful information for
+potential contributors.
+
 ## Presentations
 
 Here are a few presentations featuring FIAAS
