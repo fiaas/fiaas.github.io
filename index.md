@@ -172,6 +172,10 @@ creating a Github issue first to make it easier to discuss the proposed changes.
 Each repository will also have a README and/or CONTRIBUTING file that will also contain useful information for
 potential contributors.
 
+### Get in touch
+
+We have a channel on the Kubernetes slack, come see us in [#fiaas](slack://channel?team=T09NY5SBT&id=CNASTE7CP).
+
 ## Presentations
 
 Here are a few presentations featuring FIAAS
