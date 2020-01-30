@@ -180,6 +180,11 @@ We have a channel on the Kubernetes slack, come see us in [#fiaas](slack://chann
 
 Here are a few presentations featuring FIAAS
 
+##### [Introduction to FIAAS](files/Introduction to FIAAS.pdf)
+
+Morten Lied Johansen<br/>
+*Internal presentation at FINN.no*
+
 ##### [Lessons Learned From Maintaining Continuous Delivery While Migrating From a Static Infrastructure to Kubernetes](https://www.youtube.com/watch?v=UJneVIAv9rc)
 
 Audun Fauchald Strand, Øyvind Ingebrigtsen Øvergaard<br/>
@@ -194,3 +199,4 @@ Gard Voigt Rimestad, Øyvind Ingebrigtsen Øvergaard<br/>
 
 Gard Voigt Rimestad<br/>
 *Spinnaker Summit 2018*
+
