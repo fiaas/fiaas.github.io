@@ -46,7 +46,7 @@ Daemon](https://github.com/fiaas/fiaas-deploy-daemon) into
 the default namespace
 
 ```
-helm install fiaas/fiaas-skipper --name=fiaas-skipper --set addFiaasDeployDaemonConfigmap="true"
+helm install fiaas-skipper fiaas/fiaas-skipper --set addFiaasDeployDaemonConfigmap="true"
 ```
 
 Now there is a Deploy Daemon running in the default namespace.
