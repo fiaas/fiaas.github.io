@@ -1,5 +1,0 @@
-language: python
-install:
-- gem install mdl
-script:
-- mdl --style mdl.rb .
