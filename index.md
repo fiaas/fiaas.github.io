@@ -40,14 +40,18 @@ Add the FIAAS helm repository
 helm repo add fiaas https://fiaas.github.io/helm
 ```
 
-Install [Skipper](https://github.com/fiaas/skipper) which in turn will
-bootstrap an instance of [Deploy
-Daemon](https://github.com/fiaas/fiaas-deploy-daemon) into
-the default namespace
+Install [fiaas-deploy-daemon](https://github.com/fiaas/fiaas-deploy-daemon) the
+default namespace with the default configuration.
 
 ```
-helm install fiaas/fiaas-skipper --name=fiaas-skipper --set addFiaasDeployDaemonConfigmap="true"
+helm install fiaas-deploy-daemon fiaas/fiaas-deploy-daemon
 ```
+
+In practice you will most likely want to change some of the configuration flags
+or deploy to a different (or multiple) namespaces. To do this, take a look at
+the [operator
+guide](https://github.com/fiaas/fiaas-deploy-daemon/blob/master/docs/operator_guide.md),
+and check the values for the helm chart for how to change the configuration.
 
 Now there is a Deploy Daemon running in the default namespace.
 Deploy Daemon will create a custom resource definition called Application that
@@ -137,10 +141,6 @@ expressed through the application specification.
 component of FIAAS that will continuously look for application descriptions and
 apply them, effectively deploying applications and provisioning the necessary
 kubernetes resources that it requires.
-
-[Skipper](https://github.com/fiaas/skipper) is used for managing FIAAS in a
-given Kubernetes cluster. With Skipper a cluster operator can install and
-upgrade instances of Deploy Daemon across different namespaces.
 
 [Mast](https://github.com/fiaas/mast) can be used for generating the necessary
 manifest that can be applied to the cluster. The manifest includes an
